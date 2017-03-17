@@ -1,0 +1,6 @@
+{
+  "name": "lazy",
+  "description": "Define a lazy property",
+  "version": "1.0.0",
+  "main": "lazy.js"
+}
